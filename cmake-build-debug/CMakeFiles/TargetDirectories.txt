@@ -1,0 +1,3 @@
+C:/Users/giupe/CLionProjects/DaFareFork/cmake-build-debug/CMakeFiles/DaFareFork.dir
+C:/Users/giupe/CLionProjects/DaFareFork/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/giupe/CLionProjects/DaFareFork/cmake-build-debug/CMakeFiles/rebuild_cache.dir
